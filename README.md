@@ -1,4 +1,4 @@
-# Analisis de comentarios 
+# Análisis de comentarios 
 
 ## TurisPOS
 
@@ -14,9 +14,15 @@ En donde los comentarios a analizar serán relacionados a lugares turísticos de
 
 ### 🛠️ Herramientas 
 
-Aplicación no code Apify para extraer los comentarios de varios lugares turísticos de Costa Rica (solo se da el link de Google Maps de la atracción turística y la cantidad de comentarios).
+Aplicación no code Apify: 
+- Extraer los comentarios de varios lugares turísticos de Costa Rica (solo se da el link de Google Maps de la atracción turística y la cantidad de comentarios).
 
-Python para hacer todo el código, desde la limpieza hasta el modelado y visualización de resultados.
+Python:
+- Limpieza de datos
+- Manejo de emojis
+- Guardado de información en .csv de la información limpia
+- Manejo de funciones y modelos de POS Tagging 
+- Visualización de información 
 
 
 Claude como asistente de IA para entendimiento y optimización de código.
@@ -25,8 +31,15 @@ Claude como asistente de IA para entendimiento y optimización de código.
 Parte del código base del proyecto se extrajo del proyecto anterior de AnalisisSentimientosYT, el cual puede ser encontrado en el siguiente repositorio 👉🏻 xxx
 
 
+Ploty Dash:
+- Parte visual del proyecto 
+- Presentación de resultados de métricas y gráficos 
+
 #### 👩🏻‍💻 Elaborado por:
+
 Evelin Calderón Rojas 
+
 Estudiante de Big Data 
+
 Curso: Minería de Textos
 
