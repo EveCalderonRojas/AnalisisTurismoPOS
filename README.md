@@ -18,7 +18,7 @@ Cada comentario pasa por los análisis de Penn Treebank (NLTK) y Universal POS (
 
 Aplicación no code Apify: 
 - Extraer los comentarios de varios lugares turísticos de Costa Rica (solo se da el link de Google Maps de la atracción turística y la cantidad de comentarios).
--Guardado de los datos en diversos formatos (csv, excel, json...)
+- Guardado de los datos en diversos formatos (csv, excel, json...)
 
 Python:
 - Limpieza de datos.
