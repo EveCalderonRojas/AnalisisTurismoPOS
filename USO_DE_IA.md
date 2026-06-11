@@ -1,3 +1,4 @@
+
 # Uso responsable de IA en proyectos
 
 ## TurisPOS
@@ -11,7 +12,7 @@ Además de funciones de optimización ee código y explicaciones varias.
 ### 🧾 Ejemplos de prompts 
 
 xxxx
-
+<img width="1920" height="1080" alt="Divertido fondo de pantalla gato kawaii rosa" src="https://github.com/user-attachments/assets/29151722-aaf3-4657-9577-68986fce9552" />
 
 ### 👩🏻‍💻 La IA en el aprendizaje 
 
