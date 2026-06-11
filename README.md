@@ -34,10 +34,23 @@ Claude como asistente de IA para entendimiento y optimización de código.
 Parte del código base del proyecto se extrajo del proyecto anterior de AnalisisSentimientosYT, el cual puede ser encontrado en el siguiente repositorio 👉🏻 https://github.com/EveCalderonRojas/AnalisisSentimientosYT
 
 
-Ploty Dash:
+Plotly Dash:
 - Parte visual del proyecto 
 - Presentación de resultados de métricas y gráficos.
 - Vista tipo página web en la que se puede navegar entre secciones.
+
+### 📁 Organización
+
+✅ data
+- 🗁 raw: Alojamiento de los datos extraídos sin procesamiento 
+- 🗁 processed: Datos a los que se les aplicó limpieza, análisis y traducción
+
+✅ src
+- 🗁 analisisPOS: funciones con los análisis de Penn Treebank y UniversalPOS
+- 🗁 datosOrigen: procesamiento de los datos crudos, generando al final datos limpios para ser utilizados
+- 🗁 datosProcesados: limpieza y guardado de los datos para el análisis
+- 🗁 resultadosPOS: resultados al generar los análisis con ambos métodos
+- 🗁 visualizaciones: resultados visuales utilizando Plotly Dash 
 
 #### 👩🏻‍💻 Elaborado por:
 
